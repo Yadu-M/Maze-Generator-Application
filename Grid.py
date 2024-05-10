@@ -1,4 +1,4 @@
-from pygame import Surface, Color, Rect, draw, display, time
+from pygame import Surface, Color, Rect, draw, display
 
 class Grid:    
     def __init__(self, row_count: int, col_count: int, cell_width: int, cell_height: int, surface: Surface) -> None:  
