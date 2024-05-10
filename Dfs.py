@@ -1,5 +1,5 @@
 from Grid import Grid
-from algo import Algo
+from Algo import Algo
 from pygame import Color
 import random
 
