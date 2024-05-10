@@ -28,7 +28,7 @@ def main():
         screen.fill(pygame.Color(0,0,0))
         
         #-------------------------Maze logic(Recursive-DFS)----------------------------------#
-        #TODO Call the
+        #TODO Call my classes here
 
 
         # flip() the display to put your work on screen
