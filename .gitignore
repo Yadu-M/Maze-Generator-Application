@@ -1,5 +1,8 @@
 *.txt
+*.py
 env/*
 .vscode/
 __pycache__/*
+ 
 !requirements.txt
+!main.py
